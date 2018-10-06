@@ -1,5 +1,5 @@
 var inputs = document.getElementsByTagName("input");
-for (i=0; i<inputs.length; i++){
+for (var i = 0; i < inputs.length; i++){     <!-- the variable i is not initialised fixed-->
    inputs[i].onchange = changeHandler;
 }
 document.getElementsByTagName('select')[0].onchange = function() {
