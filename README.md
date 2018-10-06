@@ -2,6 +2,7 @@
 App details
 ===========================
 Pick popular articles of specific date range.
+Website is live at http://condense.press/
 
 Tech Details
 ===========================
