@@ -28,6 +28,7 @@ from
         <option value="chart">chart</option>
       </select>
       <input type="submit" value="Submit" style="visibility: hidden;">
+      <input type="reset" value="reset" style="visibility: hidden;"> <!-- added the reset features in the form -->
     </form>
   
 
